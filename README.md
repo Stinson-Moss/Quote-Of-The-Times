@@ -1,5 +1,5 @@
 # Quote Of The Times
- Quote of the times is a simple three app setup that will display a quote on your lock screen that changes from a list of quotes over a specified time interval. You are going to need to install a few apps to make the whole thing possible:
+ Quote of the times is a simple four app setup that will display a quote on your lock screen that changes from a list of quotes over a specified time interval. You are going to need to install a few apps to make the whole thing possible:
 
  ## Steps
  You will first need some applications:
